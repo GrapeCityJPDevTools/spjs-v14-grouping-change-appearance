@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@grapecity/spread-sheets": "^14.0.2",
+    "@grapecity/spread-sheets-resources-ja": "^14.0.2"
+  }
+}
